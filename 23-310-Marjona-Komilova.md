@@ -76,3 +76,4 @@ Requires more server resources
 Best Architecture Choice
 
 For this project, the Monolithic Architecture is better because the system is relatively small and easier to manage with a single server application. It allows faster development and simpler deployment. Microservices architecture is more suitable for very large systems with many users and services.
+Done
